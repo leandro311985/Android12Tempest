@@ -1,0 +1,2 @@
+rootProject.name = "Android12Tempest"
+include ':app'
